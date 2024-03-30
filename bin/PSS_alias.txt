@@ -101,6 +101,8 @@
 # Global Pico Store Apps
 #
 #
+    "com.PlazmaStudio.expansionprototype" : "Expansion",
+    "com.fasttravelgames.lollipop" : "Vampire: The Masquerade - Justice",
     "com.AliveInTech.Tranzient" : "Tranzient",
     "com.BolverkGames.GenotypeGame" : "Genotype",
     "com.theia.UndeadQueastF" : "Undead Quest",
