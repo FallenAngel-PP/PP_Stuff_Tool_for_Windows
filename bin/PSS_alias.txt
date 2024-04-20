@@ -16,6 +16,7 @@
 # Pico Indie Games
 #
 #
+    "com.drbeef.questzdoom" : "QuestZDoom",
     "com.drbeef.beefraiderxr" : "Beef Raider XR",
     "ru.maximoff.apktool" : "Apktool M",
     "com.BaggyG.JKXR_Companion_App" : "Jedi Knight XR Launcher",
@@ -65,6 +66,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.CrystalApps.PuzzleAdventure" : "Puzzle Adventure",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
     "com.Overrungames.Arcaxer" : "Arcaxer",
@@ -101,6 +103,16 @@
 # Global Pico Store Apps
 #
 #
+    "com.SFVR.VRWar" : "VR Wolves Team",
+    "com.VRxpert.Fear2Fly.Pico" : "VRFH-Fear2Fly",
+    "com.Mediafarm.demosacademymetaclass" : "Demos XP",
+    "com.KnuckleheadStudios.AnneFrank" : "Anne Frank House VR",
+    "com.DefaultCompany.Myproject9" : "Magic Book Adventure",
+    "com.OPENtech.Overworld" : "Project: Overworld - Demo",
+    "com.LionCastle.AstroChef" : "Astro Chef",
+    "com.CrumblingGames.Crumbling" : "Crumbling",
+    "online.yshh.zhan" : "Ninja - Waltz of Night",
+    "com.wolfandwood.csmash" : "C-Smash VRS",
     "com.PlazmaStudio.expansionprototype" : "Expansion",
     "com.fasttravelgames.lollipop" : "Vampire: The Masquerade - Justice",
     "com.AliveInTech.Tranzient" : "Tranzient",
@@ -576,6 +588,8 @@
 # PicoLab Games
 #
 #
+    "com.DEnM.Metaenga" : "Metaenga - XR Training Platform",
+    "com.And7Limited.HitstreamDemo" : "Hitstream Demo",
     "tech.belivr.Karga" : "Karga",
     "com.thirdverse.xtrapol8" : "X8",
     "com.pvr.robmembor" : "Robmembor",
