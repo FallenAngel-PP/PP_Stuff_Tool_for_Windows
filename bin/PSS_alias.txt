@@ -66,6 +66,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
     "com.Overrungames.Arcaxer" : "Arcaxer",
@@ -102,6 +103,10 @@
 # Global Pico Store Apps
 #
 #
+    "tech.belivr.KargaVR" : "Karga VR",
+    "com.Kandao.KandaoXR" : "Kandao XR",
+    "com.gorillavr.pico.triptovr" : "Tripto VR",
+    "com.BearHammerGamesLTD.VenturesGauntlet" : "Venture's Gauntlet",
     "com.mechabit.mechaleague" : "MechaLeague",
     "com.hbx.Arrow2" : "Arrow Song 2",
     "com.KDNM.HandsPlayground" : "Hands Playground",
@@ -612,6 +617,8 @@
 # PicoLab Games
 #
 #
+    "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
+    "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
     "com.KDNM.Pool4D" : "POOL 4D Demo",
     "com.dayholi.vrplayer" : "Dayholi",
