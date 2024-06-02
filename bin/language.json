@@ -2,6 +2,8 @@
     "selected_language": "english",
     "english": {
         "start_button": "Patching Method\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patching",
+        "patch_message": "Do you want to patch your games in 'APK_here'? It will patch all games which are in APK_here\n\n[It will not install your games directly. Sideload them from PATCHED or manually]",
         "rename_button": "Renaming Method\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Do you want to rename your games in 'APK_here' for OS 5.9.X? It will rename all games which are in APK_here\n\n[It will not install your games directly. Sideload them from PATCHED or manually]",
         "rename10": "Please do not copy a folder to APK_here to use this feature.\nThis program is only compatible with .apk or .zip",
@@ -171,6 +173,8 @@
     },
     "deutsch": {
         "start_button": "Patch-Methode\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patchen",
+        "patch_message": "Möchten Sie Ihre Spiele in 'APK_here' patchen? Es werden alle Spiele gepatcht, die sich in 'APK_here' befinden\n\n[Es wird Ihre Spiele nicht direkt installieren. Sideloaden Sie sie aus PATCHED oder manuell]",
         "rename_button": "Umbenennungs-Methode\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Möchten Sie Ihre Spiele in 'APK_here' für OS 5.9.X umbenennen? Es werden alle Spiele umbenannt, die sich in APK_here befinden.\n\n[Es wird deine Spiele nicht direkt installieren. Sideloade sie von PATCHED oder manuell.]",
         "rename10": "Kopieren Sie bitte keine Ordner in APK_here, um diese Funktion zu nutzen.\nDieses Programm ist nur mit .apk oder .zip kompatibel",
@@ -340,6 +344,8 @@
     },
     "pусский": {
         "start_button": "Метод патча\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Патчинг",
+        "patch_message": "Вы хотите пропатчить свои игры в 'APK_here'? Это пропатчит все игры, которые находятся в 'APK_here'\n\n[Это не установит ваши игры напрямую. Установите их из PATCHED или вручную]",
         "rename_button": "Метод переименования\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Хотите переименовать ваши игры в 'APK_here' для ОС 5.9.X? Он переименует все игры, которые находятся в папке APK_here.\n\n[Он не будет устанавливать ваши игры напрямую. Загрузите их с боку через PATCHED или вручную.]",
         "rename10": "Пожалуйста, не копируйте папку в APK_here, чтобы использовать эту функцию.\nЭта программа совместима только с .apk или .zip",
@@ -509,6 +515,8 @@
     },
     "中文": {
         "start_button": "补丁方法\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "修补",
+        "patch_message": "您想要修补 'APK_here' 中的游戏吗？这将修补 'APK_here' 中的所有游戏\n\n[这不会直接安装您的游戏。请从 PATCHED 中旁加载或手动安装]",
         "rename_button": "重命名方法\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "您想要将您的游戏重命名为'APK_here'，以适用于OS 5.9.X吗？它将重命名所有位于 APK_here 文件夹中的游戏。\n\n[它不会直接安装您的游戏。请从PATCHED侧边加载它们，或手动安装。]",
         "rename10": "请不要将文件夹复制到APK_here以使用此功能。\n此程序仅与.apk或.zip兼容",
@@ -678,6 +686,8 @@
     },
     "español": {
         "start_button": "Método de parcheo\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Parcheo",
+        "patch_message": "¿Quieres parchear tus juegos en 'APK_here'? Se parchearán todos los juegos que estén en 'APK_here'\n\n[Esto no instalará tus juegos directamente. Cárgalos desde PATCHED o manualmente]",
         "rename_button": "Método de renombrado\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "¿Quiere renombrar sus juegos en 'APK_here' para OS 5.9.X? Renombrará todos los juegos que estén en la carpeta APK_here.\n\n[No instalará tus juegos directamente. Descárgalos lateralmente desde PATCHED o hazlo manualmente.]",
         "rename10": "Por favor, no copie una carpeta a APK_here para usar esta función.\nEste programa solo es compatible con .apk o .zip",
@@ -847,6 +857,8 @@
     },
     "français": {
         "start_button": "Méthode de patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patch",
+        "patch_message": "Voulez-vous patcher vos jeux dans 'APK_here' ? Cela patchera tous les jeux qui sont dans 'APK_here'\n\n[Cela n'installera pas vos jeux directement. Chargez-les depuis PATCHED ou manuellement]",
         "rename_button": "Méthode de renommage\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Voulez-vous renommer vos jeux dans 'APK_here' pour OS 5.9.X ? Il renommera tous les jeux qui se trouvent dans le dossier APK_here.\n\n[Il n'installera pas vos jeux directement. Chargez-les latéralement depuis PATCHED ou faites-le manuellement.]",
         "rename10": "Veuillez ne pas copier un dossier dans APK_here pour utiliser cette fonction.\nCe programme est uniquement compatible avec les fichiers .apk ou .zip",
@@ -1016,6 +1028,8 @@
     },
     "português": {
         "start_button": "Método de Patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patching",
+        "patch_message": "Você quer patcher seus jogos em 'APK_here'? Isso irá patcher todos os jogos que estão em 'APK_here'\n\n[Isso não instalará seus jogos diretamente. Faça o sideload a partir de PATCHED ou manualmente]",
         "rename_button": "Método de Renomeação\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Quer renomear seus jogos em 'APK_here' para OS 5.9.X? Ele irá renomear todos os jogos que estão na pasta APK_here.\n\n[Ele não instalará seus jogos diretamente. Carregue-os lateralmente a partir do PATCHED ou faça manualmente.]",
         "rename10": "Por favor, não copie uma pasta para APK_here para usar esta função.\nEste programa é compatível apenas com arquivos .apk ou .zip",
@@ -1185,6 +1199,8 @@
     },
     "nederlands": {
         "start_button": "Patchmethode\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patchen",
+        "patch_message": "Wil je je games patchen in 'APK_here'? Dit zal alle games patchen die in 'APK_here' staan\n\n[Dit zal je games niet direct installeren. Sideload ze vanuit PATCHED of handmatig]",
         "rename_button": "Hernoemingsmethode\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Wilt u uw spellen hernoemen naar 'APK_here' voor OS 5.9.X? Hij zal alle spellen hernoemen die zich in de map APK_here bevinden.\n\n[Het zal je spellen niet rechtstreeks installeren. Laad ze zijdelings vanuit PATCHED of doe het handmatig.]",
         "rename10": "Kopieer alstublieft geen map naar APK_here om deze functie te gebruiken.\nDit programma is alleen compatibel met .apk- of .zip-bestanden",
@@ -1354,6 +1370,8 @@
     },
     "pirate": {
         "start_button": "Arrr! Patchin' Method\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patchin'",
+        "patch_message": "Arrr ye wantin' to patch yer games in 'APK_here'? It be patchin' all games in 'APK_here'\n\n[It be not installin' yer games directly. Sideload 'em from PATCHED or manually]",
         "rename_button": "Arrr! Renamin' Method\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Arrr ye lookin' to rename yer games in 'APK_here' for OS 5.9.X? It be renamin' all th' games what be in th' APK_here folder, matey. Arrr!\n\n[Arrr, it be not installin' yer games directly, matey. Load 'em from PATCHED on the side or do it manually, arrr!]",
         "rename10": "Please don't be copyin' a chest to APK_here to use this feature, matey.\nThis program be only compatible with .apk or .zip",
@@ -1523,6 +1541,8 @@
     },
     "hoots": {
         "start_button": "Patching Wee Trick\nOS <= 5.8.4 | Matrix <= 5.7.0",
+        "patch_ind": "Patchin'",
+        "patch_message": "Dae ye want tae patch yer games in 'APK_here'? It'll patch aw games in 'APK_here'\n\n[It'll no install yer games straight away. Sideload them fae PATCHED or dae it yersel']",
         "rename_button": "Renaming Wee Trick\n  OS = 5.9.X | Matrix = 5.8.2  ",
         "rename9": "Ye want tae rename yer games in 'APK_here' fur OS 5.9.X? Eh'll gee yon games a' a rename, ken? Thon's the yins in the APK_here folder, likesay.\n\n[It'll no install yer games directly. Sideload them fae PATCHED or dae it manually.]",
         "rename10": "Please dinnae copy a folder tae APK_here tae use this feature.\nThis program is only compatible wi' .apk or .zip files",
