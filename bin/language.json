@@ -104,8 +104,11 @@
         "ftp22": "{item} has been downloaded successfully.",
         "ftp23": "FTP connection is not established.",
         "ftp24": "Connect",
-        "ftp25": "Do you want to download {item}?\nSize: {total_size_mb} MB",
-        "ftp26": "!!! Opening large folders may take a short moment !!!",
+        "ftp25": "Do you want to download {item}?\nSize: {total_size_mb}",
+        "ftp26": "File downloaded successfully: {filename}\nSpeed: {speed:.2f} MB/sec",
+        "ftp27": "Download Canceled",
+        "ftp28": "Are you sure?",
+        "ftp29": "Do you want to cancel Download?",
         "help1": "Help me",
         "help2": "- PP Stuff Tool got an error while 'decompiling...'\n  It seems that you have no Java installed. Click on 'Debug', if Java is defined.\n  When no, install java from .zip file\n\n- PP Stuff Tool got an error while 'signing...'\n  Be sure you installed Java. Click on 'Debug' and look if you have java version '1.8.0_341' or above installed.\n  Sometimes Java can be a big asshole\n\n- I get no ADB Connection, but my Pico is plugged to PC\n  Click on 'ADB Command' and type in: adb devices\n  When more than one are connected, it will not work.\n  When you enabled 'Wireless ADB', be sure you unplugged USB connection\n\n- I get an 'illegal Signature' error on my Pico\n  Plug your Pico to PC and click 'CheckPiracy'\n\n- I did the Workaround 5.5.0 - 5.8.2, but my matrix is always above 5.8.1\n  Be sure you are not on Pico OS 5.9.0 or higher\n  When you are on Pico OS 5.8.2 or lower, you were on Internet too long during Workaround\n  use a mobile hotspot and throttle your internet speed\n\n- I get a 'Verification Failed: No Entitlement in local Cache' error\n  Switch on your internet on first start of every app or when the cache expired\n\n- A game can not be installed\n  When install fails, be sure you enabled dev mode. When yes, disable it, restart your headset and enable again.\n  Be sure you uninstalled old game, be sure you are not on 5.5.0, be sure you have enough space left\n\n- You have any other problems?\n  This is no problem. Visit us on https://discord.gg/gtwSEUcBJ9",
         "rename1": "Cancel",
@@ -169,7 +172,8 @@
         "file25": "Are you really sure to uninstall {selected_real_name}",
         "file26": "Storage: {avail_space_mb:.2f} GB    |    Used: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Free: {free_space_mb:.2f} GB",
         "file27": "Initializing Game sizes...\n\nThis can take a while",
-        "file28": "Games & Sizes"
+        "file28": "Games & Sizes",
+        "file29": "Your 'Keys' folder for 'Renaming Method' is empty\nDo you want to use a Backup of your generated Signing Keys?\nWhen not, it will generate new keys"
     },
     "deutsch": {
         "start_button": "Patch-Methode\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -275,8 +279,11 @@
         "ftp22": "{item} wurde erfolgreich heruntergeladen.",
         "ftp23": "FTP-Verbindung nicht hergestellt.",
         "ftp24": "Verbinden",
-        "ftp25": "Möchtest du {item} herunterladen?\nGröße: {total_size_mb} MB",
-        "ftp26": "!!! Das öffnen von großen Ordnern kann einen kurzen Moment dauern !!!",
+        "ftp25": "Möchtest du {item} herunterladen?\nGröße: {total_size_mb}",
+        "ftp26": "Datei erfolgreich heruntergeladen: {filename}\nGeschwindigkeit: {speed:.2f} MB/sec",
+        "ftp27": "Download abgebrochen",
+        "ftp28": "Bist du sicher?",
+        "ftp29": "Möchtest du den Download abbrechen?",
         "help1": "Hilf mir",
         "help2": "- Beim 'Dekompilieren' ist ein Fehler in PP Stuff Tool aufgetreten\n  Es scheint, dass kein Java installiert ist. Klicke auf 'Debug', wenn Java definiert ist.\n  Wenn nicht, installiere Java aus der .zip-Datei\n\n- Beim 'Signieren' ist ein Fehler in PP Stuff Tool aufgetreten\n  Stelle sicher, dass Java installiert ist. Klicke auf 'Debug' und überprüfe, ob Java-Version '1.8.0_341' oder höher installiert ist.\n  Manchmal kann Java ziemlich stur sein\n\n- Es besteht keine ADB-Verbindung, obwohl mein Pico am PC angeschlossen ist\n  Klicke auf 'ADB Command' und gib ein: adb devices\n  Wenn mehr als eins verbunden ist, wird es nicht funktionieren.\n  Wenn du 'Wireless ADB' aktiviert hast, stelle sicher, dass du die USB-Verbindung getrennt hast\n\n- Ich erhalte einen Fehler 'Ungültige Signatur' auf meinem Pico\n  Schließe deinen Pico an den PC an und klicke auf 'CheckPiracy'\n\n- Ich habe Workaround 5.5.0 - 5.8.2 gemacht, aber meine Matrix ist immer über 5.8.1\n  Stelle sicher, dass du nicht auf Pico OS 5.9.0 oder höher bist\n  Wenn du auf Pico OS 5.8.2 oder niedriger bist, warst du während des Workarounds zu lange im Internet\n  Verwende einen mobilen Hotspot und drossle deine Internetgeschwindigkeit\n\n- Ich erhalte einen Fehler 'Verifizierung fehlgeschlagen: Keine Berechtigung im lokalen Cache'\n  Schalte dein Internet beim ersten Start jeder App ein oder wenn der Cache abgelaufen ist\n\n- Ein Spiel kann nicht installiert werden\n  Wenn die Installation fehlschlägt, stelle sicher, dass du den Entwicklermodus aktiviert hast. Wenn ja, deaktiviere ihn,\n  starte dein Headset neu und aktiviere ihn erneut.\n  Stelle sicher, dass du das alte Spiel deinstalliert hast, überprüfe, ob du nicht auf 5.5.0 bist, und vergewissere dich,\n  dass genügend Speicherplatz vorhanden ist\n\n- Hast du andere Probleme?\n  Das ist kein Problem. Besuche uns auf https://discord.gg/gtwSEUcBJ9",
         "rename1": "Abbrechen",
@@ -340,7 +347,8 @@
         "file25": "Bist du wirklich sicher, {selected_real_name} zu deinstallieren?",
         "file26": "Speicher: {avail_space_mb:.2f} GB    |    Verwendet: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Frei: {free_space_mb:.2f} GB",
         "file27": "Initialisiere Spielgrößen...\n\nDies kann eine Weile dauern",
-        "file28": "Spiele & Größen"
+        "file28": "Spiele & Größen",
+        "file29": "Ihr 'Keys'-Ordner für 'Umbenennungsmethode' ist leer\nMöchten Sie ein Backup Ihrer generierten Signaturschlüssel verwenden?\nWenn nicht, werden neue Schlüssel generiert"
     },
     "pусский": {
         "start_button": "Метод патча\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -446,8 +454,11 @@
         "ftp22": "{item} был успешно загружен.",
         "ftp23": "FTP соединение не установлено.",
         "ftp24": "Cоединять",
-        "ftp25": "Вы хотите скачать {item}?\nРазмер: {total_size_mb} МБ",
-        "ftp26": "!!! Открытие больших папок может занять некоторое время !!!",
+        "ftp25": "Вы хотите скачать {item}?\nРазмер: {total_size_mb}",
+        "ftp26": "Файл успешно загружен: {filename}\nСкорость: {speed:.2f} МБ/сек",
+        "ftp27": "Загрузка отменена",
+        "ftp28": "Вы уверены?",
+        "ftp29": "Вы хотите отменить загрузку?",
         "help1": "Помощь",
         "help2": "- Ошибка инструмента PP Stuff при 'дешифрации...'\n  Похоже, что у вас не установлен Java. Нажмите 'Отладка', если Java определена.\n  Если нет, установите Java из файла .zip\n\n- Ошибка инструмента PP Stuff при 'подписании...'\n  Убедитесь, что у вас установлена Java. Нажмите 'Отладка' и проверьте, установлена ли версия Java '1.8.0_341' или выше.\n  Иногда Java может быть капризной\n\n- Нет подключения ADB, но мой Pico подключен к ПК\n  Нажмите 'ADB Команда' и введите: adb devices\n  Когда подключено более одного устройства, это не будет работать.\n  Если вы включили 'Беспроводной ADB', убедитесь, что вы отключили USB-подключение\n\n- Получаю ошибку 'Недопустимая подпись' на моем Pico\n  Подключите свой Pico к ПК и нажмите 'Проверить пиратство'\n\n- Я выполнил обходное решение 5.5.0 - 5.8.2, но моя матрица всегда выше 5.8.1\n  Убедитесь, что вы не используете Pico OS 5.9.0 или выше\n  Когда вы используете Pico OS 5.8.2 или ниже, вы были в Интернете слишком долго во время обходного решения\n  используйте мобильную точку доступа и ограничьте скорость вашего интернета\n\n- Получаю ошибку 'Проверка не удалась: Нет прав в локальном кэше'\n  Включите интернет при первом запуске каждого приложения или когда кэш устареет\n\n- Игра не устанавливается\n  Когда установка не удалась, убедитесь, что вы включили режим разработчика. Если да, отключите его, перезагрузите вашу гарнитуру\n  и снова включите.\n  Убедитесь, что вы удалены старую игру, убедитесь, что вы не используете 5.5.0, убедитесь, что у вас достаточно свободного места\n\n- Есть другие проблемы?\n  Это не проблема. Посетите нас на https://discord.gg/gtwSEUcBJ9",
         "rename1": "Отмена",
@@ -511,7 +522,8 @@
         "file25": "Вы уверены, что хотите деинсталлировать {selected_real_name}?",
         "file26": "Хранилище: {avail_space_mb:.2f} ГБ    |    Использовано: {used_space_mb:.2f} ГБ    [ {perc_space_mb} % ]    |    Свободно: {free_space_mb:.2f} ГБ",
         "file27": "Инициализация размеров игры...\n\nЭто может занять некоторое время",
-        "file28": "Игры и размеры"
+        "file28": "Игры и размеры",
+        "file29": "Ваша папка 'Keys' для 'Метод переименования' пуста\nВы хотите использовать резервную копию ваших сгенерированных ключей подписи?\nЕсли нет, будут сгенерированы новые ключи"
     },
     "中文": {
         "start_button": "补丁方法\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -617,8 +629,11 @@
         "ftp22": "{item} 未建立 FTP 连接。",
         "ftp23": "FTP 连接未建立。",
         "ftp24": "连接",
-        "ftp25": "是否要下载 {item}?\n大小： {total_size_mb} MB",
-        "ftp26": "!!! 打开大文件夹可能需要一段时间 !!!",
+        "ftp25": "是否要下载 {item}?\n大小： {total_size_mb}",
+        "ftp26": "文件下载成功：{filename}\n速度：{speed:.2f} MB/秒",
+        "ftp27": "下载已取消",
+        "ftp28": "您确定吗？",
+        "ftp29": "您要取消下载吗？",
         "help1": "帮助",
         "help2": "- PP Stuff工具在'反编译...'时出现错误\n  看起来您没有安装Java。点击'调试'，如果Java已定义。\n  如果没有，请从.zip文件安装Java\n\n- PP Stuff工具在'签名...'时出现错误\n  确保您已安装Java。点击'调试'，查看您是否安装了'1.8.0_341'或更高版本的Java。\n  有时候Java可能会有点刁钻\n\n- 我没有ADB连接，但我的Pico已连接到PC\n  点击'ADB命令'，输入：adb devices\n  当连接了多个设备时，它将无法工作。\n  如果启用了'无线ADB'，请确保您已断开USB连接\n\n- 我的Pico上出现'非法签名'错误\n  将您的Pico连接到PC并点击'检查盗版'\n\n- 我执行了5.5.0 - 5.8.2的解决方法，但我的矩阵始终在5.8.1以上\n  确保您没有使用Pico OS 5.9.0或更高版本\n  当您使用Pico OS 5.8.2或更低版本时，您在解决方法期间在互联网上的时间过长\n  使用移动热点并限制您的互联网速度\n\n- 我得到了'验证失败：本地缓存中没有权利'错误\n  在每个应用程序的第一次启动时或缓存过期时打开您的互联网\n\n- 游戏无法安装\n  安装失败时，请确保您已启用开发者模式。如果是，请禁用它，重新启动您的头戴式显示器，然后再次启用。\n  确保您已卸载旧游戏，请确保您没有使用5.5.0，确保您有足够的剩余空间\n\n- 还有其他问题吗？\n  这不是问题。请访问我们的https://discord.gg/gtwSEUcBJ9",
         "rename1": "取消",
@@ -682,7 +697,8 @@
         "file25": "您确定要卸载 {selected_real_name} 吗？",
         "file26": "存储空间: {avail_space_mb:.2f} GB    |    已使用: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    可用: {free_space_mb:.2f} GB",
         "file27": "初始化游戏大小...\n\n这可能需要一些时间",
-        "file28": "游戏与大小"
+        "file28": "游戏与大小",
+        "file29": "您的 'Keys' 文件夹用于 '重命名方法' 是空的\n您要使用已生成签名密钥的备份吗？\n如果不使用，将生成新的密钥"
     },
     "español": {
         "start_button": "Método de parcheo\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -788,8 +804,11 @@
         "ftp22": "{item} ha sido descargado exitosamente.",
         "ftp23": "No se ha establecido la conexión FTP.",
         "ftp24": "Conectar",
-        "ftp25": "¿Desea descargar {item}?\nTamaño: {total_size_mb} MB",
-        "ftp26": "!!! ¡La apertura de carpetas grandes puede llevar un momento! !!!",
+        "ftp25": "¿Desea descargar {item}?\nTamaño: {total_size_mb}",
+        "ftp26": "Archivo descargado correctamente: {filename}\nVelocidad: {speed:.2f} MB/seg",
+        "ftp27": "Descarga cancelada",
+        "ftp28": "¿Estás seguro?",
+        "ftp29": "¿Quieres cancelar la descarga?",
         "help1": "Ayúdame",
         "help2": "- La herramienta PP Stuff tuvo un error mientras 'descompilaba...'\n  Parece que no tienes Java instalado. Haz clic en 'Depurar', si Java está definido.\n  Si no, instala Java desde el archivo .zip\n\n- La herramienta PP Stuff tuvo un error mientras 'firmaba...'\n  Asegúrate de tener Java instalado. Haz clic en 'Depurar' y verifica si tienes instalada la versión de Java '1.8.0_341' o superior.\n  A veces, Java puede comportarse de manera problemática\n\n- No tengo conexión ADB, pero mi Pico está conectado a la PC\n  Haz clic en 'Comando ADB' e ingresa: adb devices\n  Si hay más de uno conectado, no funcionará.\n  Si habilitaste 'ADB inalámbrico', asegúrate de desconectar la conexión USB\n\n- Obtengo un error de 'Firma no válida' en mi Pico\n  Conecta tu Pico a la PC y haz clic en 'Verificar Piratería'\n\n- Hice el Truco 5.5.0 - 5.8.2, pero mi matriz siempre está por encima de 5.8.1\n  Asegúrate de no estar en Pico OS 5.9.0 o superior\n  Si estás en Pico OS 5.8.2 o inferior, estuviste demasiado tiempo en Internet durante el Truco\n  usa un punto de acceso móvil y reduce la velocidad de tu conexión a Internet\n\n- Obtengo un error de 'Verificación fallida: No hay derechos en la caché local'\n  Activa tu conexión a Internet en el primer inicio de cada aplicación o cuando la caché haya expirado\n\n- No se puede instalar un juego\n  Si la instalación falla, asegúrate de haber habilitado el modo de desarrollo. Si es así, desactívalo, reinicia tu visor\n  y vuélvelo a habilitar.\n  Asegúrate de desinstalar el juego antiguo, asegúrate de no estar en la versión 5.5.0, asegúrate de tener suficiente espacio libre\n\n- ¿Tienes algún otro problema?\n  No hay problema. Visítanos en https://discord.gg/gtwSEUcBJ9",
         "rename1": "Cancelar",
@@ -853,7 +872,8 @@
         "file25": "¿Estás realmente seguro de desinstalar {selected_real_name}?",
         "file26": "Almacenamiento: {avail_space_mb:.2f} GB    |    Usado: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Libre: {free_space_mb:.2f} GB",
         "file27": "Inicializando tamaños de juego...\n\nEsto puede llevar un tiempo",
-        "file28": "Juegos y Tamaños"
+        "file28": "Juegos y Tamaños",
+        "file29": "Su carpeta 'Keys' para el 'Método de cambio de nombre' está vacía\n¿Desea usar una copia de seguridad de sus claves de firma generadas?\nSi no, se generarán nuevas claves"
     },
     "français": {
         "start_button": "Méthode de patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -959,8 +979,11 @@
         "ftp22": "{item} a été téléchargé avec succès.",
         "ftp23": "La connexion FTP n'est pas établie.",
         "ftp24": "Connecter",
-        "ftp25": "Voulez-vous télécharger {item}?\nTaille: {total_size_mb} Mo",
-        "ftp26": "!!! L'ouverture de dossiers volumineux peut prendre un court instant !!!",
+        "ftp25": "Voulez-vous télécharger {item}?\nTaille: {total_size_mb}",
+        "ftp26": "Fichier téléchargé avec succès : {filename}\nVitesse : {speed:.2f} Mo/s",
+        "ftp27": "Téléchargement annulé",
+        "ftp28": "Êtes-vous sûr ?",
+        "ftp29": "Voulez-vous annuler le téléchargement ?",
         "help1": "Aidez-moi",
         "help2": "- L'outil PP Stuff a rencontré une erreur lors de la 'décompilation...'\n  Il semble que vous n'ayez pas Java installé. Cliquez sur 'Déboguer', si Java est défini.\n  Sinon, installez Java à partir du fichier .zip\n\n- L'outil PP Stuff a rencontré une erreur lors de la 'signature...'\n  Assurez-vous d'avoir installé Java. Cliquez sur 'Déboguer' et vérifiez si vous avez la version Java '1.8.0_341'\n  ou supérieure installée.\n  Parfois, Java peut poser problème\n\n- Je n'ai pas de connexion ADB, mais mon Pico est branché sur le PC\n  Cliquez sur 'Commande ADB' et tapez : adb devices\n  Si plus d'un périphérique est connecté, cela ne fonctionnera pas.\n  Si vous avez activé 'ADB sans fil', assurez-vous d'avoir débranché la connexion USB\n\n- J'obtiens une erreur de 'Signature illégale' sur mon Pico\n  Branchez votre Pico sur le PC et cliquez sur 'Vérifier le piratage'\n\n- J'ai fait le contournement 5.5.0 - 5.8.2, mais ma matrice est toujours supérieure à 5.8.1\n  Assurez-vous de ne pas être sous Pico OS 5.9.0 ou supérieur\n  Si vous êtes sous Pico OS 5.8.2 ou moins, vous étiez trop longtemps sur Internet pendant le contournement\n  utilisez un point d'accès mobile et réduisez votre vitesse Internet\n\n- J'obtiens une erreur 'Échec de la vérification : Aucun droit dans le cache local'\n  Activez votre connexion Internet au premier démarrage de chaque application ou lorsque le cache a expiré\n\n- Un jeu ne peut pas être installé\n  Si l'installation échoue, assurez-vous d'avoir activé le mode développeur. Si oui, désactivez-le, redémarrez votre\n  casque et réactivez-le.\n  Assurez-vous de désinstaller l'ancien jeu, assurez-vous de ne pas être sous la version 5.5.0, assurez-vous\n  d'avoir suffisamment d'espace libre\n\n- Vous avez d'autres problèmes ?\n  Ce n'est pas un problème. Rendez-nous visite sur https://discord.gg/gtwSEUcBJ9",
         "rename1": "Annuler",
@@ -1024,7 +1047,8 @@
         "file25": "Es-tu vraiment sûr de désinstaller {selected_real_name} ?",
         "file26": "Stockage : {avail_space_mb:.2f} Go    |    Utilisé : {used_space_mb:.2f} Go    [ {perc_space_mb} % ]    |    Libre : {free_space_mb:.2f} Go",
         "file27": "Initialisation des tailles de jeu...\n\nCela peut prendre un certain temps",
-        "file28": "Jeux & Tailles"
+        "file28": "Jeux & Tailles",
+        "file29": "Votre dossier 'Keys' pour la 'Méthode de renommage' est vide\nVoulez-vous utiliser une sauvegarde de vos clés de signature générées?\nSinon, de nouvelles clés seront générées"
     },
     "português": {
         "start_button": "Método de Patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1130,8 +1154,11 @@
         "ftp22": "{item} foi transferido com sucesso.",
         "ftp23": "Ligação FTP não estabelecida.",
         "ftp24": "Ligar",
-        "ftp25": "Deseja fazer o download de {item}?\nTamanho: {total_size_mb} MB",
-        "ftp26": "!!! A abertura de pastas grandes pode levar um curto momento !!!",
+        "ftp25": "Deseja fazer o download de {item}?\nTamanho: {total_size_mb}",
+        "ftp26": "Arquivo baixado com sucesso: {filename}\nVelocidade: {speed:.2f} MB/seg",
+        "ftp27": "Download cancelado",
+        "ftp28": "Tem certeza?",
+        "ftp29": "Deseja cancelar o download?",
         "help1": "Ajuda",
         "help2": "- A ferramenta PP Stuff encontrou um erro durante a 'descompilação...'\n  Parece que você não tem o Java instalado. Clique em 'Depurar', se o Java estiver definido.\n  Caso contrário, instale o Java a partir do arquivo .zip\n\n- A ferramenta PP Stuff encontrou um erro durante a 'assinatura...'\n  Certifique-se de ter o Java instalado. Clique em 'Depurar' e verifique se você tem a versão do Java '1.8.0_341' ou superior instalada.\n  Às vezes, o Java pode ser um pouco problemático\n\n- Não tenho conexão ADB, mas meu Pico está conectado ao PC\n  Clique em 'Comando ADB' e digite: adb devices\n  Se mais de um estiver conectado, não funcionará.\n  Se você ativou 'ADB sem fio', certifique-se de desconectar a conexão USB\n\n- Recebo um erro de 'Assinatura ilegal' no meu Pico\n  Conecte seu Pico ao PC e clique em 'Verificar Pirataria'\n\n- Fiz o Workaround 5.5.0 - 5.8.2, mas minha matriz está sempre acima de 5.8.1\n  Certifique-se de não estar no Pico OS 5.9.0 ou superior\n  Se estiver no Pico OS 5.8.2 ou inferior, você ficou muito tempo na Internet durante o Workaround\n  use um ponto de acesso móvel e reduza a velocidade da sua Internet\n\n- Recebo um erro 'Verificação Falhou: Nenhum Direito no Cache Local'\n  Ative sua internet na primeira inicialização de cada aplicativo ou quando o cache expirar\n\n- Um jogo não pode ser instalado\n  Se a instalação falhar, certifique-se de ter ativado o modo de desenvolvedor. Se sim, desative, reinicie o seu headset\n  e ative novamente.\n  Certifique-se de desinstalar o jogo antigo, verifique se você não está na versão 5.5.0, certifique-se de ter espaço livre suficiente\n\n- Tem algum outro problema?\n  Isso não é um problema. Visite-nos em https://discord.gg/gtwSEUcBJ9",
         "rename1": "Cancelar",
@@ -1195,7 +1222,8 @@
         "file25": "Tem certeza de que deseja desinstalar {selected_real_name}?",
         "file26": "Armazenamento: {avail_space_mb:.2f} GB    |    Usado: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Livre: {free_space_mb:.2f} GB",
         "file27": "Inicializando tamanhos do jogo...\n\nIsso pode levar algum tempo",
-        "file28": "Jogos & Tamanhos"
+        "file28": "Jogos & Tamanhos",
+        "file29": "Sua pasta 'Keys' para o 'Método de Renomeação' está vazia\nVocê quer usar um backup das suas chaves de assinatura geradas?\nCaso contrário, novas chaves serão geradas"
     },
     "nederlands": {
         "start_button": "Patchmethode\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1301,8 +1329,11 @@
         "ftp22": "{item} is succesvol gedownload.",
         "ftp23": "FTP-verbinding is niet tot stand gebracht.",
         "ftp24": "Verbinden",
-        "ftp25": "Wil je {item} downloaden?\nGrootte: {total_size_mb} MB",
-        "ftp26": "!!! Het openen van grote mappen kan even duren !!!",
+        "ftp25": "Wil je {item} downloaden?\nGrootte: {total_size_mb}",
+        "ftp26": "Bestand succesvol gedownload: {filename}\nSnelheid: {speed:.2f} MB/sec",
+        "ftp27": "Download geannuleerd",
+        "ftp28": "Weet je het zeker?",
+        "ftp29": "Wil je het downloaden annuleren?",
         "help1": "Help me",
         "help2": "- PP Stuff Tool heeft een foutmelding tijdens het 'decompileren...'\n  Het lijkt erop dat je geen Java geïnstalleerd hebt. Klik op 'Debug', als Java is gedefinieerd.\n  Zo niet, installeer Java vanuit het .zip-bestand\n\n- PP Stuff Tool heeft een foutmelding tijdens het 'ondertekenen...'\n  Zorg ervoor dat je Java hebt geïnstalleerd. Klik op 'Debug' en controleer of je Java-versie '1.8.0_341' of hoger is geïnstalleerd.\n  Soms kan Java lastig zijn\n\n- Ik krijg geen ADB-verbinding, maar mijn Pico is aangesloten op de pc\n  Klik op 'ADB-commando' en typ in: adb devices\n  Als er meer dan één is aangesloten, zal het niet werken.\n  Als je 'Wireless ADB' hebt ingeschakeld, zorg er dan voor dat je de USB-verbinding hebt losgekoppeld\n\n- Ik krijg een 'illegale handtekening' fout op mijn Pico\n  Sluit je Pico aan op de pc en klik op 'Controleer Piraterij'\n\n- Ik heb Workaround 5.5.0 - 5.8.2 gedaan, maar mijn matrix is altijd boven 5.8.1\n  Zorg ervoor dat je niet op Pico OS 5.9.0 of hoger zit\n  Als je op Pico OS 5.8.2 of lager zit, was je te lang op internet tijdens de Workaround\n  gebruik een mobiele hotspot en verlaag je internetsnelheid\n\n- Ik krijg een 'Verificatiefout: Geen rechten in lokale cache' fout\n  Schakel je internet in bij de eerste start van elke app of wanneer de cache is verlopen\n\n- Een spel kan niet worden geïnstalleerd\n  Als de installatie mislukt, zorg er dan voor dat je de ontwikkelaarsmodus hebt ingeschakeld. Als dat het geval is,\n  schakel het uit, start je headset opnieuw op en schakel het opnieuw in.\n  Zorg ervoor dat je het oude spel hebt verwijderd, controleer of je niet op versie 5.5.0 zit en zorg ervoor dat je\n  voldoende vrije ruimte hebt\n\n- Heb je andere problemen?\n  Dit is geen probleem. Bezoek ons op https://discord.gg/gtwSEUcBJ9",
         "rename1": "Annuleren",
@@ -1366,7 +1397,8 @@
         "file25": "Ben je echt zeker dat je {selected_real_name} wilt deïnstalleren?",
         "file26": "Opslag: {avail_space_mb:.2f} GB    |    Gebruikt: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Vrij: {free_space_mb:.2f} GB",
         "file27": "Initialiseren van spelgroottes...\n\nDit kan even duren",
-        "file28": "Spellen & Groottes"
+        "file28": "Spellen & Groottes",
+        "file29": "Uw 'Keys'-map voor de 'Naamwijzigingsmethode' is leeg\nWilt u een back-up gebruiken van uw gegenereerde ondertekeningsleutels?\nZo niet, dan worden er nieuwe sleutels gegenereerd"
     },
     "pirate": {
         "start_button": "Arrr! Patchin' Method\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1472,8 +1504,11 @@
         "ftp22": "{item} be safely in the hold.",
         "ftp23": "FTP ain't anchored rightly.",
         "ftp24": "Connect",
-        "ftp25": "Ye be lookin' t' be plunderin' {item}?\nSize: {total_size_mb} MB",
-        "ftp26": "!!! Openin' large treasure chests may take a short moment, matey !!!",
+        "ftp25": "Ye be lookin' t' be plunderin' {item}?\nSize: {total_size_mb}",
+        "ftp26": "Arrr! File plundered successfully: {filename}\nSpeed: {speed:.2f} doubloons/sec",
+        "ftp27": "Plunder be canceled",
+        "ftp28": "Be ye sure, matey?",
+        "ftp29": "Ye want to abandon the plunder?",
         "help1": "Give a hand, matey",
         "help2": "- Arrr, me PP Stuff Tool be runnin' into an error whilst 'decompilin'...'\n  It seems ye be lackin' Java, me heartie. Click on 'Debug', if Java be defined.\n  If not, install Java from th' .zip file\n\n- PP Stuff Tool be runnin' into an error whilst 'signin'...'\n  Make sure ye installed Java. Click on 'Debug' and check if ye have Java version '1.8.0_341' or above installed.\n  Sometimes Java can be a big scallywag\n\n- I get no ADB Connection, but me Pico be plugged to PC\n  Click on 'ADB Command' and type in: adb devices\n  When more than one be connected, it won't work, savvy?\n  If ye enabled 'Wireless ADB', be sure to unplug th' USB connection\n\n- I get an 'illegal Signature' error on me Pico\n  Plug yer Pico to PC and click 'CheckPiracy'\n\n- I did the Workaround 5.5.0 - 5.8.2, but me matrix be always above 5.8.1\n  Be sure ye be not on Pico OS 5.9.0 or higher\n  If ye be on Pico OS 5.8.2 or lower, ye were on the Internet too long during th' Workaround\n  Use a mobile hotspot and throttle yer internet speed\n\n- I get a 'Verification Failed: No Entitlement in local Cache' error\n  Switch on yer internet on first start of every app or when th' cache expired\n\n- A game can't be installed\n  When install fails, be sure ye enabled dev mode. If aye, disable it, restart yer headset, and enable again.\n  Be sure ye uninstalled old game, be sure ye be not on 5.5.0, and make sure ye have enough space left, arrr!\n\n- Ye have any other problems, me matey?\n  This be no problem. Visit us on https://discord.gg/gtwSEUcBJ9, and we'll help ye navigate the treacherous seas of troubleshootin'!",
         "rename1": "Abandon ship",
@@ -1537,7 +1572,8 @@
         "file25": "Arrr, Be ye truly sure to uninstall {selected_real_name}?",
         "file26": "Booty Stash: {avail_space_mb:.2f} Doubloons    |    Plundered: {used_space_mb:.2f} Doubloons    [ {perc_space_mb} % ]    |    Free Booty: {free_space_mb:.2f} Doubloons",
         "file27": "Initializing Game sizes, arrr...\n\nThis can take a while, matey!",
-        "file28": "Games & Sizes"
+        "file28": "Games & Sizes",
+        "file29": "Yer 'Keys' chest fer 'Renamin' Method' be empty\nBe ye wantin' t' use a Backin' o' yer forged Signin' Keys?\nIf not, it be generatin' new keys"
     },
     "hoots": {
         "start_button": "Patching Wee Trick\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1643,8 +1679,11 @@
         "ftp22": "{item}'s been nabbed, cheers!",
         "ftp23": "FTP's being a stubborn mule, nae connection.",
         "ftp24": "Connect",
-        "ftp25": "D'ye fancy a wee download o' {item}?\nSize: {total_size_mb} MB",
-        "ftp26": "!!! Openin' big folders micht tak' a wee moment !!!",
+        "ftp25": "D'ye fancy a wee download o' {item}?\nSize: {total_size_mb}",
+        "ftp26": "File doonlaided like a champ: {filename}\nGoad speed: {speed:.2f} MB/sec",
+        "ftp27": "Doonlaud Canned",
+        "ftp28": "Ye sure aboot this, eh?",
+        "ftp29": "Ye want tae cancel the doonlaud?",
         "help1": "Help, for those who cannae help themselves!",
         "help2": "- Aye, me PP Stuff Tool ran into a wee bit of trouble durin' the 'decompilation...'\n  Seems ye dinnae have Java installed. Click on 'Debug,' if Java's defined.\n  If no, install Java frae th' .zip file\n\n- PP Stuff Tool hit a snag durin' the 'signing...'\n  Make sure ye installed Java. Click on 'Debug' and check if ye have Java version '1.8.0_341' or aboon installed.\n  Sometimes Java can be a right bampot\n\n- I'm gettin' nae ADB Connection, but me Pico is plugged tae th' PC\n  Click on 'ADB Command' and type in: adb devices\n  When more than one is connected, it'll nae work, ken?\n  If ye enabled 'Wireless ADB', make sure tae unplug th' USB connection\n\n- I'm gettin' an 'illegal Signature' error on me Pico\n  Plug yer Pico intae th' PC and click 'CheckPiracy'\n\n- I did th' Workaround 5.5.0 - 5.8.2, but me matrix is aye aboon 5.8.1\n  Make sure ye arenae on Pico OS 5.9.0 or higher\n  If ye are on Pico OS 5.8.2 or lower, ye were oan the Internet too lang durin' th' Workaround\n  Use a mobile hotspot and throttle yer internet speed\n\n- I'm gettin' a 'Verification Failed: No Entitlement in local Cache' error\n  Switch on yer internet on first start o' every app or when th' cache expired\n\n- A game cannae be installed\n  When install fails, be sure ye enabled dev mode. If aye, disable it, restart yer headset, and enable again.\n  Make sure ye uninstalled th' old game, be sure ye arenae on 5.5.0, and make sure ye hae enough space left\n\n- Ye hae any other problems?\n  This is nae a bother. Visit us on https://discord.gg/gtwSEUcBJ9, and we'll gie ye a haun' through the twists an' turns!",
         "rename1": "Away with ye!",
@@ -1708,6 +1747,7 @@
         "file25": "Ye sure ye want tae uninstall {selected_real_name}?",
         "file26": "Storin: {avail_space_mb:.2f} GB    |    Uised: {used_space_mb:.2f} GB    [ {perc_space_mb} % ]    |    Free: {free_space_mb:.2f} GB",
         "file27": "Gettin' the game sizes set up...\n\nThis could tak' a wee while",
-        "file28": "Games & Sizes"
+        "file28": "Games & Sizes",
+        "file29": "Yer 'Keys' folder fur 'Renamin Method' is empty\nDae ye want tae use a Backup o yer generated Signin Keys?\nIf naw, it'll generate new keys"
     }
 }
