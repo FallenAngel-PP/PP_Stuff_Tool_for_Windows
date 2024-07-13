@@ -11,11 +11,15 @@
 #
 #
     "com.beatgames.beatsaber" : "Beat Saber",
+    "com.beatgames.beatpaber" : "Beat Saber +",
+    "com.NewFolderGames.IAmCat" : "Iam Cat",
 # 
 #
 # Pico Indie Games
 #
 #
+    "com.VIRTUALVISION.Visyon" : "Antser VR",
+    "com.drbeef.selacovr" : "Selaco VR",
     "com.drbeef.questzdoom" : "QuestZDoom",
     "com.drbeef.beefraiderxr" : "Beef Raider XR",
     "ru.maximoff.apktool" : "Apktool M",
@@ -66,6 +70,7 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.fantawildgames.RG" : "Rhythm Life",
     "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
     "com.GizmoVRLTD.Zooma" : "Zooma VR",
@@ -103,6 +108,23 @@
 # Global Pico Store Apps
 #
 #
+    "com.mazetheory.infiniteinside" : "Infinite Inside",
+    "com.bigsugar.tigerblade" : "Tiger Blade",
+    "com.vrmonkey.macacovr" : "Sky Climb",
+    "jp.co.ddarts.HatchPotVR" : "Hatch-Pot Indies",
+    "com.tower.crane.simulator.tulipapps.pico" : "Tower Crane Simulator",
+    "com.TulipApps.HighwayPoliceChase.pico" : "Police Chase",
+    "com.codenrama.dsd" : "Deep Space Dilemmas",
+    "com.AlterEyes.BigShots" : "Big Shots",
+    "com.rooom.rooomfx" : "rooom",
+    "com.picoxr.webapp.io_heyvr" : "heyVR.io",
+    "com.tulip.port.crane.simulator.pico" : "Port Crane",
+    "com.perform_vr.fitimmersion" : "Fit Immersion",
+    "com.team17.killerfrequency" : "Killer Frequency",
+    "com.ZOSUStudiosLLC.ZOSUZoo" : "ZOSU Zoo",
+    "com.at.city.bus.driver.simulation.pico" : "City Bus Simulator - Bus Driving Games",
+    "com.mozalearn.mozaik3dvr" : "Mozaik 3D",
+    "com.mozaweb.cadaveranatomy" : "CadaVR Anatomy",
     "tech.belivr.KargaVR" : "Karga VR",
     "com.Kandao.KandaoXR" : "Kandao XR",
     "com.gorillavr.pico.triptovr" : "Tripto VR",
@@ -617,6 +639,7 @@
 # PicoLab Games
 #
 #
+    "com.vengine.Pickleball" : "Pickleball",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
     "com.XRSweat.YogaVR" : "Yoga",
