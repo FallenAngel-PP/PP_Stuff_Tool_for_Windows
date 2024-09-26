@@ -10,6 +10,14 @@
 # Oculus Quest Ports
 #
 #
+    "com.TenderClaws.StrangerThingsVR" : "Stranger Things VR",
+    "com.playful.LuckysTale" : "Lucky's Tale",
+    "com.activ8.kizunaaivr" : "Kizuna AI",
+    "com.Aldin.WotW" : "Waltz of the Wizard",
+    "com.badflyinteractive.deadeffect2" : "Dead Effect 2",
+    "com.turbobutton.fp2" : "Floor Plan II",
+    "studio.NewFolderGames.IAmSecurity" : "I am Security",
+    "com.StressLevelZero.BONELAB" : "Bonelab",
     "com.beatgames.beatsaber" : "Beat Saber",
     "com.beatgames.beatpaber" : "Beat Saber +",
     "com.NewFolderGames.IAmCat" : "Iam Cat",
@@ -18,6 +26,7 @@
 # Pico Indie Games
 #
 #
+    "com.SiberianMakeshift.SEVER" : "SEVER",
     "com.VIRTUALVISION.Visyon" : "Antser VR",
     "com.drbeef.selacovr" : "Selaco VR",
     "com.drbeef.questzdoom" : "QuestZDoom",
@@ -70,6 +79,9 @@
 # Not on Global Pico Store Apps
 #
 #
+    "com.Miyagames.FW" : "Floating World",
+    "com.ThreeBody" : "Three Body",
+    "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
     "com.bjtu.badmintonSim" : "Badminton Battle",
     "com.Pico.G_Fighter_Neo2" : "Goblin Fighter",
@@ -108,6 +120,57 @@
 # Global Pico Store Apps
 #
 #
+    "com.AnotheReality.TennisLeagueVR_Pico_INTL" : "Tennis League VR",
+    "io.dreamgrid.archer" : "Lightning Archer",
+    "com.forwardgame.stackaarjj" : "STACKAAR Curcuit",
+    "com.OB.SwordTrip" : "Sword Trip",
+    "com.foot.pool" : "Foot Pool",
+    "com.PeopleCanFly.Thunder" : "Bulletstorm",
+    "com.BrainzImmersive.Darkening" : "Darkening",
+    "com.tkorp.convrgence" : "Nature 360",
+    "com.CliqueGames.MonkeyDooDoo" : "Monkey Doo",
+    "com.smtrandom.toytrain" : "Toy Trains",
+    "com.ss.android.ttvr.global.pvac.interdrama.yuzhuang" : "Spatial Traveller",
+    "com.dreamdev.deathhorizonmixedreality.pico" : "Death Horizon - MR",
+    "com.vimagineo.chernobylagain" : "Chernobyl Again",
+    "com.Aoga.RhythmPlanet" : "Rhythm Planet",
+    "com.Linkup.Adventure" : "Sports Adventure",
+    "com.exkee.fitness" : "Lets Get Fit VR",
+    "com.qiyou.TempoClub" : "Tempo Club",
+    "com.LinkUP.WingChun" : "WingChun",
+    "com.RunByCoffee.Goalienator" : "Goalienator",
+    "com.SteelWool.HelpWanted2" : "Five Nights at Freddy's: Help Wanted 2",
+    "com.rebuffreality.dancedash.pico" : "Dance Dash",
+    "com.rsquaregames.VRCricketFrenzyUltimate" : "Cricket Frenzy Ultimate",
+    "com.iscomXR.VRShootingRanges" : "VR Shooting Ranges",
+    "com.YetUnknown.ToyMonsters" : "Toy Monsters",
+    "com.ecoforce.studio.vr.island.protector" : "Island Protector",
+    "com.ZOSUStudiosLLC.GallerySmasher" : "Gallery Smasher",
+    "com.yobike.papaye" : "Papaye Bang Bang VR",
+    "com.zerogravity.vr.pico.siege.of.the.tropics" : "Siege of the Tropics",
+    "com.warfront.studios.defend.gainst.the.pirates" : "Defend Against The Pirates",
+    "com.IMVE.TheFinders" : "The Finders",
+    "com.VFX4VR.PlagueofAthens" : "Plaque of Athens",
+    "com.VRxpert.Fear2Drive.Pico" : "VRFH - Fear 2 Drive",
+    "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
+    "com.BigBraneStudios.SushiBen" : "Sushi Ben",
+    "com.terribleposture.MGSVRPicoGlobal" : "Mothergunship: Forge",
+    "com.anananasstudio.liminalphase" : "Liminal Phase",
+    "com.ovrhoame.hoame" : "Hoame",
+    "al.quest.pickleball.forfunlabs" : "Eleven Pickleball",
+    "com.octav.riadvr" : "Riad VR",
+    "com.JOYWAY.JoyWayPrototype3" : "STACK",
+    "com.UnsuiGo.BlockBooster" : "Block Booster",
+    "com.abstron.ninja.samurai.pico" : "Samurai Ninja Clash",
+    "com.rsquaregames.VRCricketFrenzy" : "Cricket Frenzy",
+    "com.UnsuiGo.SnakeRoom" : "Snake Room",
+    "com.JoyWay.StrideStory" : "Stride Fates",
+    "com.echoverse.studios.vr.pico.pirate.frenzy" : "Pirate Frenzy",
+    "com.qjtc.zhiciqinglv" : "Poetic Dance",
+    "com.tecworks.waterfalls" : "Relaxing Waterfalls",
+    "com.polyraw.Artax" : "Artax",
+    "com.NorthernAsylum.TaskTwist.android" : "Task Twist",
+    "com.purestudio.pico.vr.ball.lines" : "Ball Lines",
     "com.Voolgi.SuchArt" : "SuchArt: Genius Artist Simulator",
     "com.teche.picovrplayer" : "VR BO BO",
     "com.BeardedNinjaGames.VRInteractionFramework" : "Boxed Fortress: Defend the Throne",
@@ -647,6 +710,7 @@
 # PicoLab Games
 #
 #
+    "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",
     "hsel.MixalityLab.ImmersiveVideo" : "Paneo VR",
