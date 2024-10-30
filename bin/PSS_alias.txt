@@ -10,6 +10,20 @@
 # Oculus Quest Ports
 #
 #
+    "com.thebinarymill.intoblack" : "Into Black",
+    "com.schellgames.ieytd3" : "I Expect You To Die 3",
+    "com.schellgames.ieytd2" : "I Expect You To Die 2",
+    "com.ubisoft.justdancevr" : "Just Dance VR",
+    "com.camouflaj.salmon" : "Iron Man VR",
+    "com.TwistedBarrelGames.TacticalAssaultVR" : "Tactical Assault",
+    "com.FuturLab.PowerWashSimulator" : "Powerwash Simulator",
+    "jp.mrf.co.hit_point.vneko" : "Neko Atsume",
+    "com.fyian.TheThrillOfTheFight" : "Thrill of the Fight",
+    "com.holonautic.Surgineer" : "Surgineer",
+    "studio.NewFolderGames.NeverDownOnlyUp" : "Never Down",
+    "com.SoaringRocStudio.WhiteHat" : "Stabby",
+    "games.hypervr.petsnstuff" : "Pets and Stuff",
+    "com.steelcrategames.keeptalkingandnobodyexplodes" : "Keep Talking and Nobody Explodes",
     "com.TenderClaws.StrangerThingsVR" : "Stranger Things VR",
     "com.playful.LuckysTale" : "Lucky's Tale",
     "com.activ8.kizunaaivr" : "Kizuna AI",
@@ -26,6 +40,7 @@
 # Pico Indie Games
 #
 #
+    "com.qcxr.qcxr" : "QuestCraft",
     "com.SiberianMakeshift.SEVER" : "SEVER",
     "com.VIRTUALVISION.Visyon" : "Antser VR",
     "com.drbeef.selacovr" : "Selaco VR",
@@ -79,7 +94,6 @@
 # Not on Global Pico Store Apps
 #
 #
-    "com.Miyagames.FW" : "Floating World",
     "com.ThreeBody" : "Three Body",
     "com.BeetleStudio.FantasyPuzzleSpace" : "Fantasy Puzzle Space",
     "com.fantawildgames.RG" : "Rhythm Life",
@@ -120,6 +134,17 @@
 # Global Pico Store Apps
 #
 #
+    "com.Miyagames.FW" : "Floating World",
+    "com.vertigogames.azs1hdint" : "Arizona Sunshine 1 Remake", 
+    "com.abelanavr.stellar.simulator.standalone" : "Stellar Simulator",
+    "com.VirtualDor.NeotrieVR" : "NeoTrie VR",
+    "com.LinkUP.AssemblyBattle" : "Assembly Battle",
+    "com.ippogames.talesofsintravortexPico" : "Tales of Sintra",
+    "com.petricore.capsulecritters" : "Capsule Critters",
+    "com.iscomXR.VRGym" : "VRGym",
+    "com.ToastVR.MaxMustard" : "Max Mustard",
+    "com.onehamsa.underdogs" : "UNDERDOGS",
+    "com.CortopiaStudios.Spectre" : "Escaping Wonderland",
     "com.AnotheReality.TennisLeagueVR_Pico_INTL" : "Tennis League VR",
     "io.dreamgrid.archer" : "Lightning Archer",
     "com.forwardgame.stackaarjj" : "STACKAAR Curcuit",
@@ -710,6 +735,7 @@
 # PicoLab Games
 #
 #
+    "com.IngeniousStudios.ShopenkraftsMagicGoods" : "Shopenkrafts Magic Goods",
     "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
     "com.eachtick.virtofy.viewer.pico" : "Virtofy Viewer",

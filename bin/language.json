@@ -181,7 +181,9 @@
         "message2": "This function is not compatible to Pico 4 Ultra yet",
         "message3": "Modifying Active",
         "message4": "You can modify your game in bin/Apps/temp\nClick 'OK' to continue",
-        "message5": "Do you want to fix it for Pico 4 Ultra?"
+        "message5": "Do you want to fix it for Pico 4 Ultra?",
+        "os1": "Choose your OS for the 'Renaming Method'",
+        "os2": "Choose your OS"
     },
     "deutsch": {
         "start_button": "Patch-Methode\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -365,7 +367,9 @@
         "message2": "Diese Funktion ist noch nicht mit Pico 4 Ultra kompatibel",
         "message3": "Modifikation aktiv",
         "message4": "Du kannst dein Spiel in bin/Apps/temp modifizieren\nKlicke auf 'OK' um fortzufahren",
-        "message5": "Möchtest du es für Pico 4 Ultra beheben?"
+        "message5": "Möchtest du es für Pico 4 Ultra beheben?",
+        "os1": "Wähle dein Betriebssystem für die 'Umbenennungsmethode'",
+        "os2": "Wähle dein Betriebssystem"
     },
     "pусский": {
         "start_button": "Метод патча\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -549,7 +553,9 @@
         "message2": "Эта функция пока не совместима с Pico 4 Ultra",
         "message3": "Модификация активна",
         "message4": "Вы можете изменить свою игру в bin/Apps/temp\nНажмите 'ОК', чтобы продолжить",
-        "message5": "Хотите исправить это для Pico 4 Ultra?"
+        "message5": "Хотите исправить это для Pico 4 Ultra?",
+        "os1": "Выберите вашу операционную систему для 'Метода переименования'",
+        "os2": "Выберите вашу операционную систему"
     },
     "中文": {
         "start_button": "补丁方法\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -733,7 +739,9 @@
         "message2": "此功能尚不兼容 Pico 4 Ultra",
         "message3": "修改激活",
         "message4": "您可以在 bin/Apps/temp 中修改您的游戏\n点击 'OK' 继续",
-        "message5": "您想为 Pico 4 Ultra 修复它吗?"
+        "message5": "您想为 Pico 4 Ultra 修复它吗?",
+        "os1": "选择您的操作系统以进行“重命名方法”",
+        "os2": "选择您的操作系统"
     },
     "español": {
         "start_button": "Método de parcheo\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -917,7 +925,9 @@
         "message2": "Esta función aún no es compatible con Pico 4 Ultra",
         "message3": "Modificación activa",
         "message4": "Puedes modificar tu juego en bin/Apps/temp\nHaz clic en 'OK' para continuar",
-        "message5": "¿Quieres arreglarlo para Pico 4 Ultra?"
+        "message5": "¿Quieres arreglarlo para Pico 4 Ultra?",
+        "os1": "Elige tu sistema operativo para el 'Método de Renombrado'",
+        "os2": "Elige tu sistema operativo"
     },
     "français": {
         "start_button": "Méthode de patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1101,7 +1111,9 @@
         "message2": "Cette fonction n'est pas encore compatible avec Pico 4 Ultra",
         "message3": "Modification activée",
         "message4": "Vous pouvez modifier votre jeu dans bin/Apps/temp\nCliquez sur 'OK' pour continuer",
-        "message5": "Voulez-vous le corriger pour Pico 4 Ultra?"
+        "message5": "Voulez-vous le corriger pour Pico 4 Ultra?",
+        "os1": "Choisissez votre système d'exploitation pour la 'Méthode de Renommage'",
+        "os2": "Choisissez votre système d'exploitation"
     },
     "português": {
         "start_button": "Método de Patch\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1285,7 +1297,9 @@
         "message2": "Esta função ainda não é compatível com Pico 4 Ultra",
         "message3": "Modificação ativa",
         "message4": "Você pode modificar seu jogo em bin/Apps/temp\nClique em 'OK' para continuar",
-        "message5": "Você quer corrigir isso para Pico 4 Ultra?"
+        "message5": "Você quer corrigir isso para Pico 4 Ultra?",
+        "os1": "Escolha seu sistema operacional para o 'Método de Renomeação'",
+        "os2": "Escolha seu sistema operacional"
     },
     "nederlands": {
         "start_button": "Patchmethode\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1469,7 +1483,9 @@
         "message2": "Deze functie is nog niet compatibel met Pico 4 Ultra",
         "message3": "Wijziging actief",
         "message4": "Je kunt je spel wijzigen in bin/Apps/temp\nKlik op 'OK' om door te gaan",
-        "message5": "Wil je dit oplossen voor Pico 4 Ultra?"
+        "message5": "Wil je dit oplossen voor Pico 4 Ultra?",
+        "os1": "Kies je besturingssysteem voor de 'Hernamingsmethode'",
+        "os2": "Kies je besturingssysteem"
     },
     "pirate": {
         "start_button": "Arrr! Patchin' Method\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1653,7 +1669,9 @@
         "message2": "Arrr! This function be not yet compatible with Pico 4 Ultra, matey!",
         "message3": "Modifications be active, aye!",
         "message4": "Ye can modify yer game in bin/Apps/temp\nClick 'OK' to set sail!",
-        "message5": "D'ye be wantin' to fix it fer Pico 4 Ultra, matey?"
+        "message5": "D'ye be wantin' to fix it fer Pico 4 Ultra, matey?",
+        "os1": "Choose yer OS fer th' 'Renamin' Method'",
+        "os2": "Choose yer OS"
     },
     "hoots": {
         "start_button": "Patching Wee Trick\nOS <= 5.8.4 | Matrix <= 5.7.0",
@@ -1837,6 +1855,8 @@
         "message2": "This function disnae work wi' Pico 4 Ultra yet",
         "message3": "Modificatio' active",
         "message4": "Ye can modify yer game in bin/Apps/temp\nClick 'OK' tae continue",
-        "message5": "Dae ye want tae fix it fur Pico 4 Ultra?"
+        "message5": "Dae ye want tae fix it fur Pico 4 Ultra?",
+        "os1": "Choos yer OS fur the 'Renamin Method'",
+        "os2": "Choos yer OS"
     }
 }
