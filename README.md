@@ -16,4 +16,4 @@ Download PP Stuff Tool from here: https://github.com/FallenAngel-PP/PP_Stuff_Too
 
 When you run into any problems, install this:
 
-- JDK 22 - https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
+- JDK 23 - https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe
