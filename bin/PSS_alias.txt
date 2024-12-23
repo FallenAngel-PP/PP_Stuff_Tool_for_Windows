@@ -10,6 +10,14 @@
 # Oculus Quest Ports
 #
 #
+    "com.SDI.BHM" : "Skydance's BEHEMOTH",
+    "com.vertigogames.ImpactDevelopment" : "Metro Awakening",
+    "com.camouflaj.manta" : "Batman - Arkham Shadows",
+    "com.Ubisoft.ACNexusVR" : "Assassin's Creed Nexus",
+    "com.codemasters.gridlegends" : "Grid Legends",
+    "com.spl.mercury_vr" : "MudRunner VR",
+    "com.Sanzaru.Wrath2" : "Asgard's Wrath II",
+    "com.Armature.VR4" : "Resident Evil 4",
     "com.thebinarymill.intoblack" : "Into Black",
     "com.schellgames.ieytd3" : "I Expect You To Die 3",
     "com.schellgames.ieytd2" : "I Expect You To Die 2",
@@ -134,6 +142,32 @@
 # Global Pico Store Apps
 #
 #
+    "com.overlat.sharjahamm" : "Sharjah Archaeology Metaverse Center",
+    "com.XuKing.ZombieSurvivor" : "Zombie Survivor",
+    "com.NautilusVR.VSMReciclaje" : "Recycling Automotive",
+    "com.NautilusVR.VSMEPIS" : "OHS Automotive",
+    "com.ftales.vridersbk" : "VRider SBK",
+    "com.odders.lesmillsdance" : "Les Mills XR Dance",
+    "com.FoggyBox.Startenders" : "Startenders: Intergalactic Bartending",
+    "com.dreamdev.dhcyberfusion.pico" : "Death Horizon: Cyberfusion",
+    "com.NPSoftware.VisitMadeira" : "Visit Madeira",
+    "com.Cortopia.Wands" : "Wands",
+    "com.thinglink.vr.unity.thinglink" : "ThingLink XR",
+    "com.NBS.RogueAscent" : "Rogue Ascent",
+    "com.nosebleed.ArcadeParadiseVR" : "Arcade Paradise",
+    "com.Anotherway.UnpluggedVR" : "Unplugged: Air Guitar",
+    "com.arealm.RRoversea" : "Real Realm",
+    "com.verseus.xfit" : "xFit - Powered by World of Dance",
+    "io.doublejack.maestro" : "Maestro",
+    "com.MediaUp.LaserRoom" : "Laser Room",
+    "com.XenyLab.NautilusPicoStore" : "Xenylab",
+    "com.iscomXR.VRArchery" : "VR Archery",
+    "com.Zero_Space.DroneSimulatorVR" : "Drone Simulator",
+    "com.keycapgames.coffeequest" : "Coffee Quest",
+    "com.resolutiongames.trolin" : "Spatial Ops - Campaign Edition",
+    "com.PeanutButton.Retropolis2nsg" : "Retropolis 2 - Never Say Goodbye",
+    "com.doubleme.vivarium" : "Vivarium",
+    "education.exr.app" : "ExR",
     "com.Miyagames.FW" : "Floating World",
     "com.vertigogames.azs1hdint" : "Arizona Sunshine 1 Remake", 
     "com.abelanavr.stellar.simulator.standalone" : "Stellar Simulator",
@@ -735,6 +769,7 @@
 # PicoLab Games
 #
 #
+    "com.Borderless.Borderless" : "Borderless",
     "com.IngeniousStudios.ShopenkraftsMagicGoods" : "Shopenkrafts Magic Goods",
     "com.Evaveo.Menuiserie" : "MFR Menuiserie",
     "com.DefaultCompany.VRHomeEditorPico" : "VRHome Editor",
